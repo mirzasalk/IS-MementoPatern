@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\4.Racunarska Grafika\treci domaci\treci domaci\bin\Debug\treci domaci.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\4.Racunarska Grafika\treci domaci\treci domaci\bin\Debug\treci domaci.exe
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\4.Racunarska Grafika\treci domaci\treci domaci\bin\Debug\treci domaci.pdb
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\4.Racunarska Grafika\treci domaci\treci domaci\obj\Debug\treci domaci.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\4.Racunarska Grafika\treci domaci\treci domaci\obj\Debug\treci domaci.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\4.Racunarska Grafika\treci domaci\treci domaci\obj\Debug\treci domaci.exe
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\4.Racunarska Grafika\treci domaci\treci domaci\obj\Debug\treci domaci.pdb
